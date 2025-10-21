@@ -24,3 +24,7 @@ The focus is on understanding both syntax and core concepts.
 - Understand how memory and data are handled  
 - Write clear and efficient code  
 - Apply theory to real programming tasks  
+
+## Run files: 
+
+    gcc example.c -o example
