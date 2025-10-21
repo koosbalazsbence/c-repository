@@ -25,6 +25,10 @@ The focus is on understanding both syntax and core concepts.
 - Write clear and efficient code  
 - Apply theory to real programming tasks  
 
-## Run files: 
+## Run files
 
     gcc example.c -o example
+
+## Execute files
+
+    ./example
